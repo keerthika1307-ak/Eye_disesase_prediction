@@ -1,0 +1,27 @@
+# Core Framework
+streamlit==1.31.0
+
+# Deep Learning
+tensorflow==2.15.0
+
+# Image Processing
+Pillow==10.2.0
+opencv-python-headless==4.9.0.80
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+plotly==5.18.0
+
+# Scientific Computing
+numpy==1.26.3
+
+# Google Gemini AI
+google-generativeai==0.8.5
+
+# CRITICAL: Use protobuf 3.20.x for TensorFlow 2.15 compatibility
+protobuf==3.20.3
+
+# Additional dependencies
+typing-extensions==4.9.0
+packaging==23.2
